@@ -1,6 +1,6 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 logo: '/assets/logo.jpg'
-title: '&nbsp;'
-description: 'My name is Scott Skow. Welcome to my (web)space.'
+title: 'Scott Skow'
+description: 'welcome to my (web)space.'
 show_downloads: false
 show_title: false
