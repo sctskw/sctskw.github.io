@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: ''
+title_disabled: true
 description: 'My name is Scott Skow. Welcome to my (web)space.'
 
 
