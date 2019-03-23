@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-title: 'scottskow.info'
+title: ''
+description: 'My name is Scott Skow. Welcome to my (web)space.'
+
 
 footer-links:
   github: sctskw
