@@ -4,8 +4,8 @@ title: Home
 
 
 [Home](/) |
-[My Resume](resume.md) |
-[Checkout My Blog!](/blog)
+[My Resume](/resume) |
+[Checkout My Blog!](/posts)
 
 ---
 
