@@ -1,4 +1,4 @@
-[Checkout My Blog!]: /blog
+[Checkout My Blog!](/blog)
 
 About Me
 ========
