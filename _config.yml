@@ -1,6 +1,16 @@
 theme: jekyll-theme-minimal
 logo: '/assets/logo.jpg'
-title: 'Scott Skow'
+title: 'scott.skow'
 description: 'welcome to my (web)space.'
 show_downloads: false
 show_title: false
+nav:
+  - link: "/"
+    title: "Home"
+  - link: "/resume"
+    title: "Resume"
+  - link: "/posts"
+    title: "Posts"
+links:
+  linkedin_profile: 'https://www.linkedin.com/in/scottskow/'
+  resume_download: '/assets/Scott_Skow_Resume.pdf'
