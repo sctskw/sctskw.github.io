@@ -1,7 +1,10 @@
-[About Me](/about)
-[Checkout My Blog!](/blog)
+Hi! And Welcome to my site!
 
-About Me
-========
+
+
+[Home](/)
+[Checkout My Blog!](/blog)
+[My Resume](resume.md)
+
 
 
