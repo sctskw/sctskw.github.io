@@ -1,5 +1,5 @@
 [Home](/) |
-[Download PDF](/Scott_Skow_Resume.pdf)
+[Download PDF](/assets/Scott_Skow_Resume.pdf)
 
 ---
 
