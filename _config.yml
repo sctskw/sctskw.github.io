@@ -1,9 +1,5 @@
 theme: jekyll-theme-hacker
-title: ''
+title: '&nbsp;'
 show_title: false
 description: 'My name is Scott Skow. Welcome to my (web)space.'
-
-
-footer-links:
-  github: sctskw
-  linkedin: scottskow
+show_downloads: false
