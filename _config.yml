@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 title: 'scottskow.info'
+
+footer-links:
+  github: sctskw
+  linkedin: scottskow
